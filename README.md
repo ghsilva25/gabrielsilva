@@ -1,9 +1,6 @@
-Hi, I'm Gabriel. I am 21 years old 😉
+👋 Olá, sou o Gabriel! Tenho 21 anos.
+🎓 Atualmente estudo "Ciência da Computação" - 2° semestre.
+👔 A procura de oportunidades como estagiário.
+🎯 Sonho de ser programador.
 
-I´m currently learning ✍📚
-
-I seek to evolve with the opportunities 🤓
-
-Look for an opportunity for development 🧐
-
-Study Computer Science at Cruzeiro do Sul University 💻📚
+💻 Aprendendo com as linguagens Java e Python.
