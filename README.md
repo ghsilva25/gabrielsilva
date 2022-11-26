@@ -1,9 +1,9 @@
-👋 Olá, sou o Gabriel! Tenho 21 anos.
+👋 Hello, I'm Gabriel! I'm 21 years old.
 
-🎓 Atualmente estudo "Ciência da Computação" - 2° semestre.
+🎓 I am currently studying "Computer Science" - 2nd semester.
 
-👔 A procura de oportunidades como estagiário.
+👔 Looking for opportunities as an intern.
 
-🎯 Sonho de ser programador.
+🎯 Dream of being a programmer.
 
-💻 Aprendendo com as linguagens Java e Python.
+💻 Learning with Java and Python languages.
